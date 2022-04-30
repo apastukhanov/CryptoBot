@@ -13,4 +13,6 @@ The project scturture:
 
 
 Scheme of the Project:
-https://dbdiagram.io/d/626d276295e7f23c61a11ceb
+
+https://dbdiagram.io/d/626d279995e7f23c61a11df1
+
