@@ -13,6 +13,6 @@ The project scturture:
 
 
 Scheme of the Project:
-
 https://dbdiagram.io/d/626d279995e7f23c61a11df1
 
+Authors: @iliacrypto13 @MMals1 @apastukhanov
