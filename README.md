@@ -12,6 +12,5 @@ The project scturture:
 - Telegram Bot that communicates with subscribers and sends info about projects chosen by user.
 
 
-
-
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/626d279995e7f23c61a11df1'> </iframe>
+Scheme of the Project:
+https://dbdiagram.io/d/626d276295e7f23c61a11ceb
