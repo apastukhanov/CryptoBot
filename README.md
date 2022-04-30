@@ -4,7 +4,7 @@ The aim of the projectis to build a bot that collects news about crypto from 3 p
 The projects tasks are:
 - create a strong tool for proccessing large amount of text data about crypto market,
 - create tools for advanced technical analysis to examine the correlation bitween the price action of the crypto and the news about the crypto,
-- create UI to communcate with the CryptoBot: filter news, crypto projects, signals and schedule of notifications.
+- create UI to communcate with the CryptoBot: filter news, crypto projects, signals and schedule notifications.
 
 The project scturture:
 - Parser engine,
